@@ -8,7 +8,7 @@ The Cryptographic Algorithms Visualization project focuses on creating visual re
 
 ## Features
 
-- Visualization of popular cryptographic algorithms such as RSA, AES, and SHA.
+- Visualization of popular cryptographic algorithms such as Ceaser Chpher, Vigenere Cipher etc.
 - Interactive demonstrations illustrating the encryption and decryption processes.
 - Dynamic updating of visuals to reflect changes in algorithm parameters and inputs.
 - Educational content accompanying each visualization to explain key concepts.
